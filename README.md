@@ -1,4 +1,4 @@
-# adventofcode2020
-Advent of code 2020 exercises
+# Advent of code 2020
+My solutions for exercises
 
 https://adventofcode.com/
